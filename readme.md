@@ -1,6 +1,6 @@
-## Freenove Hexapod Robot Kit
+## Ryan Baker Octopod Robot Kit
 
-> A robot kit based on Arduino and Processing.
+> A robot kit based on Arduino.
 
 ### Download
 
